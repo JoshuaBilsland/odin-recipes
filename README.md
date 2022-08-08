@@ -12,3 +12,6 @@ This project is for the HTML Foundations for the Foundations course. The website
 - How to add links to other pages using HTML -- `<a>`
 - How to add images to pages using HTMl -- `<img>`
 - How to add paragraphs using HTML -- `<p>`
+- How to use comments in HTML -- `<!-- comment -->`
+- How to write fractions in HTML -- `&frac12 = ½`
+- How to use different attributes for different HTML elements
